@@ -8,7 +8,7 @@ date: '16/08/18'
 The code will be uploaded soon after paper is accepted. If you need more details and explanation about the algorithm, please contact me.
 
 ## Use case
-To determine the most important features using the algorithm described in [Detecting Relative Changes in Circulating Blood Volume using Ultrasound and Simulation]() by Javad Rahimipour Anarakia, Saeed Samet, Mohamed Shehata, Kris Aubrey-Bassler,
+To improve classification accuracy of manually and semi-automatically segmented images of cross-sectional area of internal jugular vein using the method described in [Detecting Relative Changes in Circulating Blood Volume using Ultrasound and Simulation]() by Javad Rahimipour Anarakia, Saeed Samet, Mohamed Shehata, Kris Aubrey-Bassler,
 Ebrahim Karami, Saba Samet, Andrew Smith
 
 ## Compile
